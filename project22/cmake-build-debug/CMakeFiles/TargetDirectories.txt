@@ -1,0 +1,3 @@
+/Users/dominik.gabrysz/Documents/Clion/projekt22/cmake-build-debug/CMakeFiles/projekt22.dir
+/Users/dominik.gabrysz/Documents/Clion/projekt22/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/dominik.gabrysz/Documents/Clion/projekt22/cmake-build-debug/CMakeFiles/rebuild_cache.dir

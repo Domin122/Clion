@@ -1,0 +1,3 @@
+/Users/dominik.gabrysz/Documents/Clion/projekt19/cmake-build-debug/CMakeFiles/projekt19.dir
+/Users/dominik.gabrysz/Documents/Clion/projekt19/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/dominik.gabrysz/Documents/Clion/projekt19/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+/Users/dominik.gabrysz/Documents/Clion/zad2_karta_pracy/cmake-build-debug/CMakeFiles/zad2_karta_pracy.dir
+/Users/dominik.gabrysz/Documents/Clion/zad2_karta_pracy/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/dominik.gabrysz/Documents/Clion/zad2_karta_pracy/cmake-build-debug/CMakeFiles/rebuild_cache.dir
