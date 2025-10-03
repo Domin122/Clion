@@ -36,3 +36,11 @@ int main() {
 
     return 0;
 }
+
+/*  nazwa funkcji: losowanie liczb
+ *  opis funkcji: funkcja ta losuje zestawy liczb od 1 do 49 w ilości wybranej przez osobe
+ *  i oblicza ile ich wystąpiło
+ *  paramentry:
+ *  zwracany typ i opis:
+ *  autor: Dominik Gabrysz
+ */
